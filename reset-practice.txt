@@ -1,1 +1,2 @@
 I am learning how to use git reset.
+I am practicing how to undo changes in Git.
