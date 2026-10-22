@@ -2,3 +2,4 @@
 # Git Commands Lab
 
 This repository is for practicing basic Git commands
+This line was added on GitHub
