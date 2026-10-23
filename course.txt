@@ -1,0 +1,3 @@
+Git basics: Git tracks changes and records them in commits.
+Branching: Git branches allow developers to work on separate features.
+Git rebase: Git rebase replays commits on top of another branch.
